@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { RiMenu3Line, RiCloseLine } from "react-icons/ri";
-import logo from "../../assets/sneaklogo.png";
+import logo from "../../assets/sneaklogo2.png";
 import "./navbar.css";
 
 const Menu = () => (
@@ -12,13 +12,13 @@ const Menu = () => (
       <a href="#wgpt3">VPNSneak</a>
     </p>
     <p>
-      <a href="#possibility">Sneak2.O</a>
+      <a href="#features">Sneak2.O</a>
     </p>
     <p>
-      <a href="#features">Case Studies</a>
+      <a href="#blog">Case Studies</a>
     </p>
     <p>
-      <a href="#blog">Library</a>
+      <a href="#footer">Join Us</a>
     </p>
   </>
 );

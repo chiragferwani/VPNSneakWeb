@@ -4,20 +4,20 @@ import "./features.css";
 
 const featuresData = [
   {
-    title: "Improving end distrusts instantly",
-    text: "From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.",
+    title: "Global Server Network Connection",
+    text: "The project provides a vast network of servers across the globe, allowing users to choose from a wide range of locations to enhance online privacy and access content without geographical restrictions.",
   },
   {
-    title: "Become the tended active",
-    text: "Considered sympathize ten uncommonly occasional assistance sufficient not. Letter of on become he tended active enable to.",
+    title: "User-Friendly Interface",
+    text: "The project emphasizes user-friendly design, enabling all users, regardless of technical expertise, to seamlessly navigate the Android app, hardware device, and educational resources for enhanced online security.",
   },
   {
-    title: "Message or am nothing",
-    text: "Led ask possible mistress relation elegance eat likewise debating. By message or am nothing amongst chiefly address.",
+    title: "Hardware Innovation",
+    text: "The project unveils an innovative device for effortless personal VPN server creation, boosting security in public Wi-Fi. This tangible solution adds an extra layer of protection beyond software-only alternatives.",
   },
   {
-    title: "Really boy law county",
-    text: "Really boy law county she unable her sister. Feet you off its like like six. Among sex are leave law built now. In built table in an rapid blush..",
+    title: "Educational Resources",
+    text: "The project website is a robust educational hub, offering insights on VPN importance, online privacy best practices, and cybersecurity. This commitment to education empowers users for informed decisions about digital security.",
   },
 ];
 
@@ -25,10 +25,9 @@ const Features = () => (
   <div className="gpt3__features section__padding" id="features">
     <div className="gpt3__features-heading">
       <h1 className="gradient__text">
-        The Future is Now and You Just Need to Realize It. Step into Future
-        Today. & Make it Happen.
+      Unlock the Future of Online Security with VPN Sneak. Step into a Secure Digital Tomorrow – Make it Happen Today.
       </h1>
-      <p>Request Early Access to Get Started</p>
+      <p>Order Sneak Devices Now to Get Started</p>
     </div>
     <div className="gpt3__features-containers">
       {featuresData.map((item, index) => (

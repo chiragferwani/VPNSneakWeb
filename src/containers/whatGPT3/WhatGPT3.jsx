@@ -6,28 +6,28 @@ const WhatGPT3 = () => (
   <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
     <div className="gpt3__whatgpt3-feature">
       <Feature
-        title="What is GPT-3"
-        text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by."
+        title="What is VPNSneak"
+        text="VPN Sneak is a holistic digital security initiative featuring an Android app, Sneak2.0 hardware device, and educational resources. With user-friendly solutions, global server locations, and an emphasis on education, it empowers users to safeguard their online presence. The project ensures a comprehensive, accessible, and informed approach to online privacy, providing users with the tools for a secure digital experience. VPN Sneak represents a commitment to online security, offering a multifaceted solution in a rapidly evolving digital landscape."
       />
     </div>
     <div className="gpt3__whatgpt3-heading">
       <h1 className="gradient__text">
-        The possibilities are beyond your imagination
+      Securing Tomorrow's Digital Frontiers Today
       </h1>
       <p>Explore the Library</p>
     </div>
     <div className="gpt3__whatgpt3-container">
       <Feature
-        title="Chatbots"
-        text="We so opinion friends me message as delight. Whole front do of plate heard oh ought."
+        title="Sneak 2.O"
+        text="Sneak 2.0 is VPN Sneak's innovative hardware device, revolutionizing online security. It empowers users to create personal VPN servers effortlessly, enhancing privacy, especially in public Wi-Fi settings. A tangible solution for fortified digital security, Sneak 2.0 sets a new standard for protection in the evolving digital landscape."
       />
       <Feature
-        title="Knowledgebase"
-        text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+        title="Sneak v7.7.0"
+        text="VPN Sneak's Android app, version v7.7.0, is a cutting-edge tool for seamless online privacy. Offering global server connections and a network speed test, it ensures a secure and swift browsing experience. With an intuitive interface, this version is the epitome of user-friendly online security, setting a high standard for the VPN landscape."
       />
       <Feature
         title="Education"
-        text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b"
+        text="VPN Sneak's website educates on VPN importance, privacy practices, and cybersecurity for confident digital experiences. Offering comprehensive resources, it transforms users into vigilant guardians of their online security, providing essential insights to empower users in navigating the digital landscape securely and confidently."
       />
     </div>
   </div>

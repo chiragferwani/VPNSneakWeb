@@ -1,32 +1,33 @@
 import React from "react";
 import gpt3Logo from "../../logo.svg";
+import vpnsneak from "../../assets/vpnsneak.png";
 import "./footer.css";
 
 const Footer = () => (
-  <div className="gpt3__footer section__padding">
+  <div className="gpt3__footer section__padding" id="footer">
     <div className="gpt3__footer-heading">
       <h1 className="gradient__text">
-        Do you want to step in to the future before others
+      Ready to Embrace the Future of Online Security Ahead of the Curve?
       </h1>
     </div>
 
     <div className="gpt3__footer-btn">
-      <p>Request Early Access</p>
+      <p>Get Sneak Products</p>
     </div>
 
     <div className="gpt3__footer-links">
       <div className="gpt3__footer-links_logo">
-        <img src={gpt3Logo} alt="gpt3_logo" />
+        <img src={vpnsneak} alt="gpt3_logo" />
         <p>
-          Crechterwoord K12 182 DK Alknjkcb, <br /> All Rights Reserved
+          Project By Team Buddy <br /> All Rights Reserved
         </p>
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Links</h4>
-        <p>Overons</p>
-        <p>Social Media</p>
-        <p>Counters</p>
-        <p>Contact</p>
+        <p>Github</p>
+        <p>Instagram</p>
+        <p>LinkedIn</p>
+        <p>Blogger</p>
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Company</h4>
@@ -36,14 +37,13 @@ const Footer = () => (
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Get in touch</h4>
-        <p>Crechterwoord K12 182 DK Alknjkcb</p>
-        <p>085-132567</p>
-        <p>info@payme.net</p>
+        <p>Pune, Maharashtra</p>
+        <p>sneak.v7.7.0@gmail.com</p>
       </div>
     </div>
 
     <div className="gpt3__footer-copyright">
-      <p>@2021 GPT-3. All rights reserved.</p>
+      <p>@2023 VPNSneak. All rights reserved.</p>
     </div>
   </div>
 );

@@ -7,7 +7,7 @@ const Blog = () => (
   <div className="gpt3__blog section__padding" id="blog">
     <div className="gpt3__blog-heading">
       <h1 className="gradient__text">
-        A lot is happening, <br /> We are blogging about it.
+      Discover the Steps to Latest in Online Security on our Blog.
       </h1>
     </div>
     <div className="gpt3__blog-container">
@@ -15,29 +15,29 @@ const Blog = () => (
         <Article
           imgUrl={blog01}
           date="Sep 26, 2021"
-          text="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+          text="Navigating Public Wi-Fi Safely: The Sneak2.0 Advantage"
         />
       </div>
       <div className="gpt3__blog-container_groupB">
         <Article
           imgUrl={blog02}
           date="Sep 26, 2021"
-          text="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+          text="VPN Sneak: Your Guide to Choosing the Right Server"
         />
         <Article
           imgUrl={blog03}
           date="Sep 26, 2021"
-          text="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+          text="Behind the Scenes: Sneak Android App v7.7.0"
         />
         <Article
           imgUrl={blog04}
           date="Sep 26, 2021"
-          text="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+          text="The ABCs of Online Privacy: A VPN Sneak Perspective"
         />
         <Article
           imgUrl={blog05}
           date="Sep 26, 2021"
-          text="GPT-3 and Open  AI is the future. Let us exlore how it is?"
+          text="Empowering Digital Education with VPN Sneak"
         />
       </div>
     </div>

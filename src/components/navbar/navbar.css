@@ -11,12 +11,13 @@
   align-items: center;
 }
 .gpt3__navbar-links_logo {
-  margin-right: 1rem;
+  margin-right: 0.4rem;
+  margin-left: -0.7rem;
 }
 
 .gpt3__navbar-links_logo img {
-  width: 70.56px;
-  height: 76.02px;
+  width: 80.56px;
+  height: 84.02px;
 }
 
 .gpt3__navbar-links_container {
@@ -36,7 +37,7 @@
   color: #fff;
   font-family: var(--font-family);
   font-weight: 500;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 25px;
   text-transform: capitalize;
   margin: 0 1rem;
