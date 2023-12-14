@@ -1,26 +1,40 @@
 import React from "react";
 import "./brand.css";
-import { google, slack, atlassian, dropbox, shopify } from "./imports";
+import { chirag, yash, atharva, nitanshu} from "./imports";
 
 const Brand = () => {
   return (
     <div className="gpt3__brand section__padding">
-      <div>
-        <img src={google} />
+      <div className="gpt3__features-heading">
+      <h1 className="gradient__text">
+      Team Members
+      </h1>
+      <p>Chirag Ferwani 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Yash Chavan
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Atharva Kakade
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Nitanshu Bhor
+        </p>
       </div>
       <div>
-        <img src={slack} />
+        <img src={chirag} />
       </div>
       <div>
-        <img src={atlassian} />
+        <img src={yash} />
       </div>
       <div>
-        <img src={dropbox} />
+        <img src={atharva} />
       </div>
       <div>
-        <img src={shopify} />
+        <img src={nitanshu} />
       </div>
     </div>
+    
   );
 };
 

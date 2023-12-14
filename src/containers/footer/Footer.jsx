@@ -24,15 +24,15 @@ const Footer = () => (
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Links</h4>
-        <p>Github</p>
-        <p>Instagram</p>
-        <p>LinkedIn</p>
-        <p>Blogger</p>
+        <a href="youtube.com/@vpnsneak"><p>YouTube</p></a>
+        <a href="https://www.instagram.com/vpnsneak/"><p>Instagram</p></a>
+        <a href="https://www.linkedin.com/in/chiragferwani/"><p>LinkedIn</p></a>
+        <a href="https://vpnsneak.blogspot.com/"><p>Blogger</p></a>
       </div>
       <div className="gpt3__footer-links_div">
-        <h4>Company</h4>
-        <p>Terms & Conditions </p>
-        <p>Privacy Policy</p>
+        <h4>Project</h4>
+        <p>About</p>
+        <p>Source Code</p>
         <p>Contact</p>
       </div>
       <div className="gpt3__footer-links_div">

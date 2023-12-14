@@ -1,7 +1,6 @@
-import google from "../../assets/google.png";
-import slack from "../../assets/slack.png";
-import atlassian from "../../assets/atlassian.png";
-import dropbox from "../../assets/dropbox.png";
-import shopify from "../../assets/shopify.png";
+import chirag from "../../assets/sneakprofile.png";
+import yash from "../../assets/sneakprofile3.png";
+import atharva from "../../assets/sneakprofile2.png";
+import nitanshu from "../../assets/sneakprofile4.png";
 
-export { google, slack, atlassian, dropbox, shopify };
+export { chirag, yash, atharva, nitanshu};
