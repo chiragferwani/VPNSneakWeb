@@ -3,12 +3,15 @@ import "./cta.css";
 
 const CTA = () => (
   <div className="gpt3__cta">
-    <div className="gpt3__cta-content">
+    <div className="gpt3__cta-content" id="product">
       <p>Secure Your Spot Early – Get Started Now.</p>
       <h3>Order & Install Now and Dive into Limitless Security Possibilities.</h3>
     </div>
     <div className="gpt3__cta-btn">
-      <button type="button">Order Now</button>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://rzp.io/l/faLbll50V">
+      <button type="button">Order Now</button>
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <button type="button">Get App</button>
     </div>
   </div>

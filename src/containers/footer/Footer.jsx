@@ -12,7 +12,19 @@ const Footer = () => (
     </div>
 
     <div className="gpt3__footer-btn">
+      <a href="#product">
       <p>Get Sneak Products</p>
+      </a>
+    </div>
+    <div className="gpt3__footer-btn-pp">
+      <a target="_blank" href="/Privacy Policy.pdf">
+      <p>Privacy Policy</p>
+      </a>
+    </div>
+    <div className="gpt3__footer-btn-tos">
+      <a target="_blank" href="/Terms of Service.pdf">
+      <p>Terms of Service</p>
+      </a>
     </div>
 
     <div className="gpt3__footer-links">
@@ -31,9 +43,9 @@ const Footer = () => (
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Project</h4>
-        <p>About</p>
-        <p>Source Code</p>
-        <p>Contact</p>
+        <a href="#wgpt3"><p>About</p></a>
+        <a href="https://github.com/chiragf27/VPNSneakWeb"><p>Source Code</p></a>
+        <a href="mailto:sneak.v7.7.0@gmail.com"><p>Contact</p></a>
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Get in touch</h4>
