@@ -10,6 +10,7 @@ import {
   Features,
   WhatGPT3,
   Header,
+  node
 } from "./containers";
 
 const App = () => {
@@ -25,6 +26,7 @@ const App = () => {
       <Possibility />
       <CTA />
       <Blog />
+      <node />
       <Footer />
     </div>
   );

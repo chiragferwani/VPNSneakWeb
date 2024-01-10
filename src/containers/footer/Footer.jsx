@@ -36,7 +36,7 @@ const Footer = () => (
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Links</h4>
-        <a href="youtube.com/@vpnsneak"><p>YouTube</p></a>
+        <a href="https://youtube.com/@vpnsneak"><p>YouTube</p></a>
         <a href="https://www.instagram.com/vpnsneak/"><p>Instagram</p></a>
         <a href="https://www.linkedin.com/in/chiragferwani/"><p>LinkedIn</p></a>
         <a href="https://vpnsneak.blogspot.com/"><p>Blogger</p></a>

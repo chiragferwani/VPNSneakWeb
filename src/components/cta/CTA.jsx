@@ -8,7 +8,7 @@ const CTA = () => (
       <h3>Order & Install Now and Dive into Limitless Security Possibilities.</h3>
     </div>
     <div className="gpt3__cta-btn">
-      <a href="https://rzp.io/l/faLbll50V">
+      <a href="https://vpnsneakproducts.vercel.app/">
       <button type="button">Order Now</button>
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;

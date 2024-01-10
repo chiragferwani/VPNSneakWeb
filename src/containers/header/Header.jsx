@@ -15,7 +15,7 @@ const Header = () => {
         </p>
         <div className="gpt3__header-content__input">
           <input type="email" placeholder="Your Email Address" />
-          <button type="button">Get Started</button>
+          <a href="#wgpt3"><button type="button">Get Started</button></a>
         </div>
         <div className="gpt3__header-content__people">
 

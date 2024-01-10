@@ -1,6 +1,6 @@
 import React from "react";
 import possibilityImage from "../../assets/pi.png";
-import "./possibility.css";
+import "./node.css";
 
 const Possibility = () => (
   <div className="gpt3__possibility section__padding" id="possibility">
@@ -17,7 +17,7 @@ const Possibility = () => (
       With this hardware device, users can establish a fortified digital shield, enhancing their privacy and protection, especially in public Wi-Fi settings. 
   
       </p>
-      <h4>Experience a new era of secure browsing with Sneak 2.0 & Sneak Node</h4>
+      <h4>Experience a new era of secure browsing with Sneak 2.0</h4>
     </div>
   </div>
 );
