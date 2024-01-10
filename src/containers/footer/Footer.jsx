@@ -12,7 +12,7 @@ const Footer = () => (
     </div>
 
     <div className="gpt3__footer-btn">
-      <a href="#product">
+      <a href="https://vpnsneakproducts.vercel.app/">
       <p>Get Sneak Products</p>
       </a>
     </div>

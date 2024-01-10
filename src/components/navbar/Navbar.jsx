@@ -37,8 +37,7 @@ const Navbar = () => {
         </div>
       </div>
       <div className="gpt3__navbar-sign">
-        <p>Sign in</p>
-        <button type="button">Sign up</button>
+        <button type="button">Team 🤝 Buddy</button>
       </div>
       <div className="gpt3__navbar-menu">
         {toggleMenu ? (
