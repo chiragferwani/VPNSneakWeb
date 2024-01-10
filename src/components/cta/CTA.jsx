@@ -12,7 +12,9 @@ const CTA = () => (
       <button type="button">Order Now</button>
       </a>
       &nbsp;&nbsp;&nbsp;&nbsp;
+      <a target="_blank" href="/VPNSneak.apk" download>
       <button type="button">Get App</button>
+      </a>
     </div>
   </div>
 );
