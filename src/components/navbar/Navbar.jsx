@@ -6,16 +6,16 @@ import "./navbar.css";
 const Menu = () => (
   <>
     <p>
-      <a href="#home">Home</a>
-    </p>
-    <p>
       <a href="#wgpt3">VPNSneak</a>
     </p>
     <p>
-      <a href="#features">Sneak2.O</a>
+      <a href="#sneaknode">SneakTech</a>
     </p>
     <p>
-      <a href="#blog">Case Studies</a>
+      <a href="#blog">Blogs</a>
+    </p>
+    <p>
+      <a href="https://vpnsneakip.vercel.app/">IP Geo Positioner</a>
     </p>
     <p>
       <a href="#footer">Join Us</a>
